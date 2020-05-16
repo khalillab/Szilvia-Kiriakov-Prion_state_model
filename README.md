@@ -12,3 +12,5 @@ We may add the transiently aggregated state (TA) to the two state model, which i
 Similarly, if a transiently soluble (TS) state is added, it yields the four state model.
 
 To minimize the number of variables, first order kinetics is assumed in all steps.
+
+**Author:** Szilvia Kiriakov
