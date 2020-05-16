@@ -1,4 +1,4 @@
-# Prion_state_model
+# prion-state-model
 Models prion switching using state models
 
 Prions can be induced and eliminated. This model is simple with few parameters to ensure that it can be fit to the data.
